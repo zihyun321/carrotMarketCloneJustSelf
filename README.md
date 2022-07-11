@@ -4,5 +4,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-1. Next JS 설치 (with typescript)
-2. Tailwind 설치
+1. Next JS / Typescript 설치 (#3.0)
+2. Tailwind 설치 (#3.1)
